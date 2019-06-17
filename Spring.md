@@ -16,3 +16,12 @@
 - git log 
 - git merge branchname (to merge 2 branch )
 - git remote add origin 'git link'  (to add a repository to local)
+
+### Web Services
+- JAX-WS SOAP Bases
+- JAX-RS REST Based
+
+
+### (ORM) Object Relational mapping tool
+
+### Jenkins is a continuous integration (CI) and continuous delivery (CD) solution
